@@ -1,4 +1,6 @@
 # Led-control-using-Arduino
+NAME: S.D. SURENDAR
+REG.N0: 24901073
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -58,9 +60,22 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
+\\
+  ![Screenshot 2024-12-17 113446](https://github.com/user-attachments/assets/764ad793-8ef9-4d43-888d-2e748d9c2045)
 
 ## PROGRAM
+//
+ ![Screenshot 2024-12-18 151533](https://github.com/user-attachments/assets/a67429a5-ee8e-4ac3-8b61-0ff4a96e1717)
+
 
 ## OUTPUT
+\\
+OFF:
+ ![Screenshot 2024-12-18 151710](https://github.com/user-attachments/assets/942d2fe7-b03d-494c-9a2f-be8ea9893b3d)
+\\
+ON:
+ ![Screenshot 2024-12-18 151724](https://github.com/user-attachments/assets/08753493-5de4-42ae-aeb1-fc8b860c724d)
+
 
 ## RESULT
+Designed and implemented a sustem for LED control using an Arduino microcontroller and a push button successfully.
